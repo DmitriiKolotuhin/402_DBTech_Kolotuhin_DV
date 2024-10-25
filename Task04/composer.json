@@ -1,0 +1,5 @@
+{
+    "require": {
+        "haiven/guess-number": "^1.2"
+    }
+}
